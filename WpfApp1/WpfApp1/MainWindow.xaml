@@ -5,7 +5,7 @@
         xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
         xmlns:local="clr-namespace:WpfApp1"
         mc:Ignorable="d"
-        Title="Решение определенного интеграла" Height="480" Width="640">
+        Title="Решение определенного интеграла. Оленичев В. П. 3-47" Height="480" Width="640">
     <Grid>
         <Grid.ColumnDefinitions>
             <ColumnDefinition Width="10"/>
