@@ -39,6 +39,6 @@
             <ComboBoxItem>Метод средних прямоугольников</ComboBoxItem>
             <ComboBoxItem>Метод трапеции</ComboBoxItem>
         </ComboBox>
-        <TextBox Name="tbAnswer" Grid.Row="6" Grid.Column="2" Margin="10 5 200 240"></TextBox>
+        <TextBox Name="tbAnswer" Grid.Row="6" Grid.Column="2" Margin="10 5 200 200"></TextBox>
     </Grid>
 </Window>

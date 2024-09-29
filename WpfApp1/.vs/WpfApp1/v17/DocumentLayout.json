@@ -3,12 +3,24 @@
   "WorkspaceRootPath": "C:\\Users\\oleni\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\Lab1\\WpfApp1\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{E011D0CD-B48D-42FF-8F3D-0C3AD71E8402}|WpfApp1\\WpfApp1.csproj|c:\\users\\oleni\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\lab1\\wpfapp1\\wpfapp1\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
-      "RelativeMoniker": "D:0:0:{E011D0CD-B48D-42FF-8F3D-0C3AD71E8402}|WpfApp1\\WpfApp1.csproj|solutionrelative:wpfapp1\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{E011D0CD-B48D-42FF-8F3D-0C3AD71E8402}|WpfApp1\\WpfApp1.csproj|c:\\users\\oleni\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\lab1\\wpfapp1\\wpfapp1\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{E011D0CD-B48D-42FF-8F3D-0C3AD71E8402}|WpfApp1\\WpfApp1.csproj|solutionrelative:wpfapp1\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E011D0CD-B48D-42FF-8F3D-0C3AD71E8402}|WpfApp1\\WpfApp1.csproj|c:\\users\\oleni\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\lab1\\wpfapp1\\wpfapp1\\classes\\icalculatorintegral.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E011D0CD-B48D-42FF-8F3D-0C3AD71E8402}|WpfApp1\\WpfApp1.csproj|solutionrelative:wpfapp1\\classes\\icalculatorintegral.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E011D0CD-B48D-42FF-8F3D-0C3AD71E8402}|WpfApp1\\WpfApp1.csproj|c:\\users\\oleni\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\lab1\\wpfapp1\\wpfapp1\\classes\\rectangleintegral.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E011D0CD-B48D-42FF-8F3D-0C3AD71E8402}|WpfApp1\\WpfApp1.csproj|solutionrelative:wpfapp1\\classes\\rectangleintegral.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E011D0CD-B48D-42FF-8F3D-0C3AD71E8402}|WpfApp1\\WpfApp1.csproj|c:\\users\\oleni\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\lab1\\wpfapp1\\wpfapp1\\classes\\trapezoidintegral.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E011D0CD-B48D-42FF-8F3D-0C3AD71E8402}|WpfApp1\\WpfApp1.csproj|solutionrelative:wpfapp1\\classes\\trapezoidintegral.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E011D0CD-B48D-42FF-8F3D-0C3AD71E8402}|WpfApp1\\WpfApp1.csproj|c:\\users\\oleni\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\lab1\\wpfapp1\\wpfapp1\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{E011D0CD-B48D-42FF-8F3D-0C3AD71E8402}|WpfApp1\\WpfApp1.csproj|solutionrelative:wpfapp1\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     }
   ],
   "DocumentGroupContainers": [
@@ -18,11 +30,50 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 4,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 2,
+              "Title": "RectangleIntegral.cs",
+              "DocumentMoniker": "C:\\Users\\oleni\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\Lab1\\WpfApp1\\WpfApp1\\Classes\\RectangleIntegral.cs",
+              "RelativeDocumentMoniker": "WpfApp1\\Classes\\RectangleIntegral.cs",
+              "ToolTip": "C:\\Users\\oleni\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\Lab1\\WpfApp1\\WpfApp1\\Classes\\RectangleIntegral.cs",
+              "RelativeToolTip": "WpfApp1\\Classes\\RectangleIntegral.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-29T12:12:19.164Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "TrapezoidIntegral.cs",
+              "DocumentMoniker": "C:\\Users\\oleni\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\Lab1\\WpfApp1\\WpfApp1\\Classes\\TrapezoidIntegral.cs",
+              "RelativeDocumentMoniker": "WpfApp1\\Classes\\TrapezoidIntegral.cs",
+              "ToolTip": "C:\\Users\\oleni\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\Lab1\\WpfApp1\\WpfApp1\\Classes\\TrapezoidIntegral.cs",
+              "RelativeToolTip": "WpfApp1\\Classes\\TrapezoidIntegral.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-29T12:11:51.505Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ICalculatorIntegral.cs",
+              "DocumentMoniker": "C:\\Users\\oleni\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\Lab1\\WpfApp1\\WpfApp1\\Classes\\ICalculatorIntegral.cs",
+              "RelativeDocumentMoniker": "WpfApp1\\Classes\\ICalculatorIntegral.cs",
+              "ToolTip": "C:\\Users\\oleni\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\Lab1\\WpfApp1\\WpfApp1\\Classes\\ICalculatorIntegral.cs",
+              "RelativeToolTip": "WpfApp1\\Classes\\ICalculatorIntegral.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-29T12:08:20.158Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
               "Title": "MainWindow.xaml",
               "DocumentMoniker": "C:\\Users\\oleni\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\Lab1\\WpfApp1\\WpfApp1\\MainWindow.xaml",
               "RelativeDocumentMoniker": "WpfApp1\\MainWindow.xaml",
@@ -34,13 +85,13 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "MainWindow.xaml.cs",
               "DocumentMoniker": "C:\\Users\\oleni\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\Lab1\\WpfApp1\\WpfApp1\\MainWindow.xaml.cs",
               "RelativeDocumentMoniker": "WpfApp1\\MainWindow.xaml.cs",
               "ToolTip": "C:\\Users\\oleni\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\Lab1\\WpfApp1\\WpfApp1\\MainWindow.xaml.cs",
               "RelativeToolTip": "WpfApp1\\MainWindow.xaml.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAARAAAAAAAAAA==",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABoAAAAgAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-09-16T13:38:26.412Z",
               "EditorCaption": ""
