@@ -40,15 +40,12 @@ namespace WpfApp1
 
         private ICalculatorIntegral GetCalculator()
         {
-            switch (cmbIntegralType.SelectedIndex)
+            return (global::System.Object)cmbIntegralType.SelectedIndex switch
             {
-                case 0:
-                    return new RectangleIntegral();
-                case 1:
-                    return new TrapezoidIntegral();
-                default:
-                    return new RectangleIntegral();
-            }
+                0 => new RectangleIntegral(),
+                1 => new TrapezoidIntegral(),
+                _ => new RectangleIntegral(),
+            };
         }
     }
 }
