@@ -6,7 +6,7 @@
         xmlns:local="clr-namespace:WpfApp1"
         mc:Ignorable="d"
         Title="Решение определенного интеграла. Оленичев В. П. 3-47" Height="480" Width="640">
-    <Grid>
+    <Grid Background="Gold">
         <Grid.ColumnDefinitions>
             <ColumnDefinition Width="10"/>
             <ColumnDefinition Width="auto"/>
@@ -31,7 +31,7 @@
         <TextBlock Text="Количество разбиений:"  Grid.Row="4" Grid.Column="1" Margin="5"/>
         <TextBlock Text="Метод рассчёта:"  Grid.Row="5" Grid.Column="1" Margin="5"/>
         <TextBlock Text="Ответ:"  Grid.Row="6" Grid.Column="1" Margin="5"/>
-        <Button Name="btCalculate" Grid.Column="1" Grid.ColumnSpan="2" Grid.Row="7" Click="btCalculate_Click" Margin="5">Вычислить</Button>
+        <Button Background="Crimson" Name="btCalculate" Grid.Column="1" Grid.ColumnSpan="2" Grid.Row="7" Click="btCalculate_Click" Margin="5">Вычислить</Button>
         <TextBox Name="tbUpperLimit" Grid.Row="2" Grid.Column="2" Margin="10 5 400 5"/>
         <TextBox Name="tbLowerLimit" Grid.Row="3" Grid.Column="2" Margin="10 5 400 5"/>
         <TextBox Name="tbAmount" Grid.Row="4" Grid.Column="2" Margin="10 5 400 5"/>
