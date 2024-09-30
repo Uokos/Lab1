@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "D:\\3 курс\\git\\UokosLab1\\WpfApp1\\WpfApp1\\WpfApp1.csproj": {}
+    "C:\\Users\\ilias\\OneDrive\\Рабочий стол\\влад пул реквест\\Lab1\\WpfApp1\\WpfApp1\\WpfApp1.csproj": {}
   },
   "projects": {
-    "D:\\3 курс\\git\\UokosLab1\\WpfApp1\\WpfApp1\\WpfApp1.csproj": {
+    "C:\\Users\\ilias\\OneDrive\\Рабочий стол\\влад пул реквест\\Lab1\\WpfApp1\\WpfApp1\\WpfApp1.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\3 курс\\git\\UokosLab1\\WpfApp1\\WpfApp1\\WpfApp1.csproj",
+        "projectUniqueName": "C:\\Users\\ilias\\OneDrive\\Рабочий стол\\влад пул реквест\\Lab1\\WpfApp1\\WpfApp1\\WpfApp1.csproj",
         "projectName": "WpfApp1",
-        "projectPath": "D:\\3 курс\\git\\UokosLab1\\WpfApp1\\WpfApp1\\WpfApp1.csproj",
-        "packagesPath": "C:\\Users\\dmitr\\.nuget\\packages\\",
-        "outputPath": "D:\\3 курс\\git\\UokosLab1\\WpfApp1\\WpfApp1\\obj\\",
+        "projectPath": "C:\\Users\\ilias\\OneDrive\\Рабочий стол\\влад пул реквест\\Lab1\\WpfApp1\\WpfApp1\\WpfApp1.csproj",
+        "packagesPath": "C:\\Users\\ilias\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\ilias\\OneDrive\\Рабочий стол\\влад пул реквест\\Lab1\\WpfApp1\\WpfApp1\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\dmitr\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\ilias\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -34,11 +34,6 @@
           "warnAsError": [
             "NU1605"
           ]
-        },
-        "restoreAuditProperties": {
-          "enableAudit": "true",
-          "auditLevel": "low",
-          "auditMode": "direct"
         }
       },
       "frameworks": {
@@ -63,7 +58,7 @@
               "privateAssets": "none"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.400/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.100/PortableRuntimeIdentifierGraph.json"
         }
       }
     }
