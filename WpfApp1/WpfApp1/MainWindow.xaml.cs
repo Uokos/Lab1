@@ -8,9 +8,9 @@ using System.Windows.Media;
 using System.Windows.Media.Imaging;
 using System.Windows.Navigation;
 using System.Windows.Shapes;
-using WpfApp1.Classes;
+using WPFIntegral.Classes;
 
-namespace WpfApp1
+namespace WPFIntegral
 {
     /// <summary>
     /// Interaction logic for MainWindow.xaml

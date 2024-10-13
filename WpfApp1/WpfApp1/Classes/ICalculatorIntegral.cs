@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace WpfApp1.Classes
+namespace WPFIntegral.Classes
 {
     public interface ICalculatorIntegral
     {
