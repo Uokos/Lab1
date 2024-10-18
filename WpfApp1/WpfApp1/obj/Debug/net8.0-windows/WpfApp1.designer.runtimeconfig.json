@@ -12,9 +12,14 @@
       }
     ],
     "additionalProbingPaths": [
+<<<<<<< HEAD
       "C:\\Users\\oleni\\.dotnet\\store\\|arch|\\|tfm|",
       "C:\\Users\\oleni\\.nuget\\packages",
       "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+=======
+      "C:\\Users\\ilias\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\ilias\\.nuget\\packages"
+>>>>>>> 991c02071fa26830b582ecc7df0da861034f12b2
     ],
     "configProperties": {
       "System.Runtime.Serialization.EnableUnsafeBinaryFormatterSerialization": true,

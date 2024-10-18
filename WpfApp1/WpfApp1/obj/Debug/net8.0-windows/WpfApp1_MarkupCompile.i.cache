@@ -4,16 +4,24 @@
 winexe
 C#
 .cs
+<<<<<<< HEAD
 C:\Users\oleni\OneDrive\Рабочий стол\Lab1\WpfApp1\WpfApp1\obj\Debug\net8.0-windows\
+=======
+C:\Users\ilias\OneDrive\Рабочий стол\влад пул реквест\Lab1\WpfApp1\WpfApp1\obj\Debug\net8.0-windows\
+>>>>>>> 991c02071fa26830b582ecc7df0da861034f12b2
 WpfApp1
 none
 false
 TRACE;DEBUG;NET;NET8_0;NETCOREAPP
+<<<<<<< HEAD
 C:\Users\oleni\OneDrive\Рабочий стол\Lab1\WpfApp1\WpfApp1\App.xaml
+=======
+C:\Users\ilias\OneDrive\Рабочий стол\влад пул реквест\Lab1\WpfApp1\WpfApp1\App.xaml
+>>>>>>> 991c02071fa26830b582ecc7df0da861034f12b2
 11407045341
 
 9-1950372889
-198-556154604
+198-688555687
 MainWindow.xaml;
 
 False
